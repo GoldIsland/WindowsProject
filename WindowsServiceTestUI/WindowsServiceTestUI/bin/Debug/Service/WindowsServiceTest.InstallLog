@@ -1,0 +1,46 @@
+﻿Installing assembly 'C:\Users\Administrator\Documents\Visual Studio 2010\Projects\WindowsServiceTestUI\WindowsServiceTestUI\bin\Debug\Service\WindowsServiceTest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2010\Projects\WindowsServiceTestUI\WindowsServiceTestUI\bin\Debug\Service\WindowsServiceTest.InstallLog
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2010\Projects\WindowsServiceTestUI\WindowsServiceTestUI\bin\Debug\Service\WindowsServiceTest.exe
+Installing service ServiceTest...
+Service ServiceTest has been successfully installed.
+Creating EventLog source ServiceTest in log Application...
+Committing assembly 'C:\Users\Administrator\Documents\Visual Studio 2010\Projects\WindowsServiceTestUI\WindowsServiceTestUI\bin\Debug\Service\WindowsServiceTest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2010\Projects\WindowsServiceTestUI\WindowsServiceTestUI\bin\Debug\Service\WindowsServiceTest.InstallLog
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2010\Projects\WindowsServiceTestUI\WindowsServiceTestUI\bin\Debug\Service\WindowsServiceTest.exe
+Installing assembly 'C:\Users\Administrator\Documents\Visual Studio 2010\Projects\WindowsServiceTestUI\WindowsServiceTestUI\bin\Debug\Service\WindowsServiceTest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2010\Projects\WindowsServiceTestUI\WindowsServiceTestUI\bin\Debug\Service\WindowsServiceTest.InstallLog
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2010\Projects\WindowsServiceTestUI\WindowsServiceTestUI\bin\Debug\Service\WindowsServiceTest.exe
+Installing service ServiceTest...
+Creating EventLog source ServiceTest in log Application...
+Rolling back assembly 'C:\Users\Administrator\Documents\Visual Studio 2010\Projects\WindowsServiceTestUI\WindowsServiceTestUI\bin\Debug\Service\WindowsServiceTest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2010\Projects\WindowsServiceTestUI\WindowsServiceTestUI\bin\Debug\Service\WindowsServiceTest.InstallLog
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2010\Projects\WindowsServiceTestUI\WindowsServiceTestUI\bin\Debug\Service\WindowsServiceTest.exe
+Restoring event log to previous state for source ServiceTest.
+Uninstalling assembly 'C:\Users\Administrator\Documents\Visual Studio 2010\Projects\WindowsServiceTestUI\WindowsServiceTestUI\bin\Debug\Service\WindowsServiceTest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2010\Projects\WindowsServiceTestUI\WindowsServiceTestUI\bin\Debug\Service\WindowsServiceTest.InstallLog
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2010\Projects\WindowsServiceTestUI\WindowsServiceTestUI\bin\Debug\Service\WindowsServiceTest.exe
+Removing EventLog source ServiceTest.
+Service ServiceTest is being removed from the system...
+Service ServiceTest was successfully removed from the system.
+Attempt to stop service ServiceTest.
+Uninstalling assembly 'C:\Users\Administrator\Documents\Visual Studio 2010\Projects\WindowsServiceTestUI\WindowsServiceTestUI\bin\Debug\Service\WindowsServiceTest.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Administrator\Documents\Visual Studio 2010\Projects\WindowsServiceTestUI\WindowsServiceTestUI\bin\Debug\Service\WindowsServiceTest.InstallLog
+   assemblypath = C:\Users\Administrator\Documents\Visual Studio 2010\Projects\WindowsServiceTestUI\WindowsServiceTestUI\bin\Debug\Service\WindowsServiceTest.exe
+Removing EventLog source ServiceTest.
+Warning: The source ServiceTest is not registered on the local machine.
+Service ServiceTest is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: 指定的服务未安装。
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.

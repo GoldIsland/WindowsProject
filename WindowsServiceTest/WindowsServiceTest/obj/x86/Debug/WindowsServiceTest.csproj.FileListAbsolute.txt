@@ -1,0 +1,8 @@
+c:\users\administrator\documents\visual studio 2010\Projects\WindowsServiceTest\WindowsServiceTest\bin\Debug\WindowsServiceTest.exe
+c:\users\administrator\documents\visual studio 2010\Projects\WindowsServiceTest\WindowsServiceTest\bin\Debug\WindowsServiceTest.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\WindowsServiceTest\WindowsServiceTest\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\WindowsServiceTest\WindowsServiceTest\obj\x86\Debug\WindowsServiceTest.ProjectInstaller.resources
+c:\users\administrator\documents\visual studio 2010\Projects\WindowsServiceTest\WindowsServiceTest\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\administrator\documents\visual studio 2010\Projects\WindowsServiceTest\WindowsServiceTest\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\administrator\documents\visual studio 2010\Projects\WindowsServiceTest\WindowsServiceTest\obj\x86\Debug\WindowsServiceTest.exe
+c:\users\administrator\documents\visual studio 2010\Projects\WindowsServiceTest\WindowsServiceTest\obj\x86\Debug\WindowsServiceTest.pdb

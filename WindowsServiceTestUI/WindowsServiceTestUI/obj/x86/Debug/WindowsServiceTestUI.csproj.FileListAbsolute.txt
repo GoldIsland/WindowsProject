@@ -1,0 +1,13 @@
+c:\users\administrator\documents\visual studio 2010\Projects\WindowsServiceTestUI\WindowsServiceTestUI\bin\Debug\WindowsServiceTestUI.exe
+c:\users\administrator\documents\visual studio 2010\Projects\WindowsServiceTestUI\WindowsServiceTestUI\bin\Debug\WindowsServiceTestUI.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\WindowsServiceTestUI\WindowsServiceTestUI\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\WindowsServiceTestUI\WindowsServiceTestUI\obj\x86\Debug\MainWindow.baml
+c:\users\administrator\documents\visual studio 2010\Projects\WindowsServiceTestUI\WindowsServiceTestUI\obj\x86\Debug\MainWindow.g.cs
+c:\users\administrator\documents\visual studio 2010\Projects\WindowsServiceTestUI\WindowsServiceTestUI\obj\x86\Debug\App.g.cs
+c:\users\administrator\documents\visual studio 2010\Projects\WindowsServiceTestUI\WindowsServiceTestUI\obj\x86\Debug\WindowsServiceTestUI_MarkupCompile.cache
+c:\users\administrator\documents\visual studio 2010\Projects\WindowsServiceTestUI\WindowsServiceTestUI\obj\x86\Debug\WindowsServiceTestUI.g.resources
+c:\users\administrator\documents\visual studio 2010\Projects\WindowsServiceTestUI\WindowsServiceTestUI\obj\x86\Debug\WindowsServiceTestUI.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\WindowsServiceTestUI\WindowsServiceTestUI\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\administrator\documents\visual studio 2010\Projects\WindowsServiceTestUI\WindowsServiceTestUI\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\administrator\documents\visual studio 2010\Projects\WindowsServiceTestUI\WindowsServiceTestUI\obj\x86\Debug\WindowsServiceTestUI.exe
+c:\users\administrator\documents\visual studio 2010\Projects\WindowsServiceTestUI\WindowsServiceTestUI\obj\x86\Debug\WindowsServiceTestUI.pdb
