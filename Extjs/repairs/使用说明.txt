@@ -2,3 +2,5 @@
 然后访问http://localhost:8080/extjs/repairs/helloworld.html即可。
 
 2. ext-4.0.7-gpl 是引用的Extjs版本
+链接：https://pan.baidu.com/s/1eS4cqdW 密码：mbat
+可以用网盘下载
