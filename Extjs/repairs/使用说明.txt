@@ -1,0 +1,4 @@
+1. 新增Extjs初始化环境， 下载放在tomcat中webapps中，打开tomcat即可。
+然后访问http://localhost:8080/extjs/repairs/helloworld.html即可。
+
+2. ext-4.0.7-gpl 是引用的Extjs版本
